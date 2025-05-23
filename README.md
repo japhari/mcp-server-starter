@@ -1,7 +1,16 @@
-
 # MCP - Server Guide
 
 Follow these step-by-step instructions to set up and run your MCP server:
+
+---
+
+## Screenshot
+
+Below is a screenshot of the MCP server in action:
+
+![MCP Server Screenshot](screen.png)
+
+---
 
 ## 1. Initialize the Project
 
